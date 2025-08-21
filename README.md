@@ -9,49 +9,94 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
-  <img src="https://forthebadge.com/images/badges/open-source.svg" />
-</p>
+<center>
 
----
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
-## 📌 About Me
+</center>
 
-Hi, I'm **Hemraj Gupta** — This is my personal portfolio project which highlights my skills and GitHub projects.  
-You can visit my GitHub repo here:  
-🔗 [https://github.com/Hemrajgupta05/Portfolio](https://github.com/Hemrajgupta05/Portfolio)
+<h3 align="center">
+    🔹
+    <a href="https://github.com/Hemrajgupta05/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/Hemrajgupta05/Portfolio/issues">Request Feature</a>
+</h3>
 
----
+## TL;DR
 
-## 🚀 Built With
+You can fork this repo to modify and make changes of your own.
 
-This portfolio was built using the following technologies:
+## Built With
+
+This project was built using these technologies:
 
 - React.js  
 - Node.js  
 - Express.js  
 - CSS3  
-- VS Code  
+- VsCode  
 - Vercel  
 
----
+## Features
 
-## ✨ Features
-
-- 📁 **Multi-Page Layout**
-- 🎨 **Styled with React-Bootstrap and CSS — easy to customize colors**
-- 📱 **Fully Responsive on all screen sizes**
+**📖 Multi-Page Layout**  
+**🎨 Styled with React-Bootstrap and CSS with easy to customize colors**  
+**📱 Fully Responsive**
 
 ---
 
-## 🛠 Getting Started
+## Getting Started
 
-To get a local copy up and running, follow these simple steps:
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-### Installation
+---
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Hemrajgupta05/Portfolio.git
+## 🛠 Installation and Setup Instructions
+
+1. Installation:  
+   ```bash
+   npm install
+   ```
+
+2. In the project directory, you can run:  
+   ```bash
+   npm start
+   ```
+
+   Runs the app in the development mode.  
+   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.  
+   The page will reload if you make edits.
+
+---
+
+## Usage Instructions
+
+Open the project folder and navigate to:
+
+```
+/src/components/
+```
+
+You will find all the components used and you can edit your information accordingly.
+
+---
+
+## About Me
+
+**Name**: Hemraj Gupta  
+**GitHub**: [https://github.com/Hemrajgupta05](https://github.com/Hemrajgupta05)  
+**LinkedIn**: [https://www.linkedin.com/in/hemraj-gupta-a59640342/](https://www.linkedin.com/in/hemraj-gupta-a59640342/)  
+
+My resume is included in the repository (PDF).
+
+---
+
+## Show Your Support
+
+Give a ⭐ if you like this website!
+
+<a href="https://www.buymeacoffee.com/Hemrajgupta" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="217px">
+</a>
