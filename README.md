@@ -1,11 +1,7 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://github.com/Hemrajgupta05/Portfolio" target="_blank">Hemraj Gupta</a>
+  Portfolio Website<br/>
+  <a href="https://github.com/Hemrajgupta05/Portfolio" target="_blank">github.com/Hemrajgupta05</a>
 </h2>
-
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
@@ -24,11 +20,17 @@
     <a href="https://github.com/Hemrajgupta05/Portfolio/issues">Request Feature</a>
 </h3>
 
+---
+
 ## TL;DR
 
 You can fork this repo to modify and make changes of your own.
 
+---
+
 ## Built With
+
+My personal portfolio which features my resume and technical skills.
 
 This project was built using these technologies:
 
@@ -39,6 +41,8 @@ This project was built using these technologies:
 - VsCode  
 - Vercel  
 
+---
+
 ## Features
 
 **📖 Multi-Page Layout**  
@@ -47,56 +51,45 @@ This project was built using these technologies:
 
 ---
 
-## Getting Started
-
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
----
-
 ## 🛠 Installation and Setup Instructions
 
-1. Installation:  
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/Hemrajgupta05/Portfolio.git
+   ```
+
+2. Navigate to the project folder  
+   ```bash
+   cd Portfolio
+   ```
+
+3. Install dependencies  
    ```bash
    npm install
    ```
 
-2. In the project directory, you can run:  
+4. Start the development server  
    ```bash
    npm start
    ```
 
-   Runs the app in the development mode.  
-   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.  
-   The page will reload if you make edits.
+Runs the app in the development mode.  
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.  
+The page will reload if you make edits.
 
 ---
 
-## Usage Instructions
+## Connect With Me
 
-Open the project folder and navigate to:
-
-```
-/src/components/
-```
-
-You will find all the components used and you can edit your information accordingly.
+- 📧 GitHub: [Hemrajgupta05](https://github.com/Hemrajgupta05)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/hemraj-gupta-a59640342/](https://www.linkedin.com/in/hemraj-gupta-a59640342/)
 
 ---
 
-## About Me
-
-**Name**: Hemraj Gupta  
-**GitHub**: [https://github.com/Hemrajgupta05](https://github.com/Hemrajgupta05)  
-**LinkedIn**: [https://www.linkedin.com/in/hemraj-gupta-a59640342/](https://www.linkedin.com/in/hemraj-gupta-a59640342/)  
-
-My resume is included in the repository (PDF).
-
----
-
-## Show Your Support
+## Show your support
 
 Give a ⭐ if you like this website!
 
 <a href="https://www.buymeacoffee.com/Hemrajgupta" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="217px">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="217px" >
 </a>
